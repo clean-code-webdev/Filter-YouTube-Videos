@@ -1,7 +1,7 @@
-<p align="center">
+<p align="center">  
   <a href="https://www.paypal.com/donate/?business=jasonchocolatebrownie%40hotmail.com&item_name=Buy+me+a+coffee+%3A%29&currency_code=USD" target="_blank">
-     <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png"  width="200" title="hover text">    
-  </a>
+<img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png"  width="200" title="hover text"> 
+</a>
 </p>
 
 # Filter YouTube Videos
