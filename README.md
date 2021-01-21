@@ -11,10 +11,10 @@ Once "Filter YouTube Videos" has been installed, and the Home page has been refr
 You will see a filter icon, the word "Filtered:" and a + icon.
 
 <divstyle="display:grid; grid-template-column: 1fr 1fr; gap: 50px">
-  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/1.jpeg" style="width: 100%" alt="example image">
-  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/2.jpeg" style="width: 100%" alt="example image">
-  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/3.jpeg" style="width: 100%" alt="example image">
-  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/4.jpeg" style="width: 100%" alt="example image">
+  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/1.jpeg" style="width: 50%" alt="example image">
+  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/2.jpeg" style="width: 50%" alt="example image">
+  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/3.jpeg" style="width: 50%" alt="example image">
+  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/4.jpeg" style="width: 50%" alt="example image">
 </div>
 
 ## How to install: ##
