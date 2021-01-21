@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/1.jpeg" width="100" title="hover text">
+</p>
+
 # Filter YouTube Videos
 
 **Hide OLD YouTube videos** on your home page or filter them as you wish.
