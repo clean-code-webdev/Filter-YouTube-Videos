@@ -9,8 +9,10 @@ Note: After the installation, please restart the YouTube page. Refreshing the Yo
 Once "Filter YouTube Videos" has been installed, and the Home page has been refreshed, you will see a new option appear right above the "Home" option on the left side of your screen. Note that this option is currently available only on the Home page.
 
 You will see a filter icon, the word "Filtered:" and a + icon.
-
-![alt text](https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/1.jpeg?raw=true)
+<p align="center">
+  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/1.jpeg" width="350" title="hover text">
+  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/2.jpeg" width="350" alt="accessibility text">
+</p>
 
 ## How to install: ##
 
