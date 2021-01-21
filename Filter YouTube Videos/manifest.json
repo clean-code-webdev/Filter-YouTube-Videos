@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Filter YouTube Videos",
+  "description": "Filter YouTube Videos",
+  "version": "1.0",
+
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+
+  "content_scripts": [
+    {
+      "js": ["script.js"],
+      "run_at": "document_idle",
+      "matches": ["https://www.youtube.com/"]
+    }
+  ]
+}
