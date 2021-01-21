@@ -10,6 +10,8 @@ Once "Filter YouTube Videos" has been installed, and the Home page has been refr
 
 You will see a filter icon, the word "Filtered:" and a + icon.
 
+![alt text](https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/1.jpeg?raw=true)
+
 ## How to install: ##
 
 - in Chrome, enter the address "chrome://extensions/".
