@@ -26,7 +26,7 @@ You will see a filter icon, the word "Filtered:" and a + icon.
     
 -   click "load unpacked" and navigate to the folder.
     
--   restart YouTube page.
+-   refresh the YouTube page.
 
 ## How it works:
 
