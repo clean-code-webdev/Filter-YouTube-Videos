@@ -1,10 +1,10 @@
 <p align="center">  
-  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png" width="200" title="hover text"> 
+  <a hre="https://www.paypal.com/donate/?business=jasonchocolatebrownie%40hotmail.com&item_name=Buy+me+a+coffee+%3A%29&currency_code=USD" target="_blank">
+    <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png" width="200" title="hover text"> 
+  </a>
 </p>
 
-%md <a href="https://google.com" target="_blank">
-  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png" width="200" title="hover text"> 
-  link</a>
+
 
 # Filter YouTube Videos
 
@@ -59,3 +59,9 @@ You will see a filter icon, the word "Filtered:" and a + icon.
 -   the number of filtered videos will be displayed in front of the "Filtered" word.
     
 -   Once you have chosen the desired range in the filter, "Filter YouTube Videos" will be triggered every time a change happens in the area where the videos are displayed.
+
+<p align="center">  
+  <a hre="https://www.paypal.com/donate/?business=jasonchocolatebrownie%40hotmail.com&item_name=Buy+me+a+coffee+%3A%29&currency_code=USD" target="_blank">
+    <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png" width="200" title="hover text"> 
+  </a>
+</p>
