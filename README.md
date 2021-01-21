@@ -1,5 +1,5 @@
 <p align="center">  
-  [<img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png"  width="200" title="hover text">](http://stackoverflow.com){:target="_blank"}
+  [<img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png"  >](http://stackoverflow.com){:target="_blank"}
  
 </p>
 
