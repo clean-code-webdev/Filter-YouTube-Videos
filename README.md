@@ -2,6 +2,10 @@
   <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png" width="200" title="hover text"> 
 </p>
 
+%md <a href="https://google.com" target="_blank">
+  <img src="https://github.com/clean-code-webdev/Filter-YouTube-Videos/blob/main/img/coffee.png" width="200" title="hover text"> 
+  link</a>
+
 # Filter YouTube Videos
 
 **Hide OLD YouTube videos** on your home page or filter them as you wish.
